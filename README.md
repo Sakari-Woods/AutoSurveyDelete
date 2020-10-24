@@ -54,7 +54,7 @@ While writing the program ended up taking about 2 hours, once running, the lapto
 An audio beep was played at different frequencies when an employee was either removed or never existed. This helped reduce the tendency to constantly check whether the script was still running,
 or if was just clicking around like crazy (as pixel-coordinate-using scripts can easily turn into).
 
-**All entries were correctly processed within 9 hours, while freeing the user to focus on other tasks.**
+**All entries were correctly processed within 9 hours, freeing the user to focus on other tasks.**
 
 ## What Was Learned
 * PyAutoGui is unable to scrape text data, and can only search for images on the screen.
