@@ -20,6 +20,7 @@ Because a quick solution was needed as this assignment was a 24-hour deadline, l
 
 ## Animation of completed script running
 ###### NOTE: Each frame has been blurred to redact private/confidential information from both employees and their employer.
+![Animated gif of automation](https://github.com/Sakari-Woods/AutoSurveyDelete/blob/main/automation.gif)
 
 ## The Automation Process
 1. Click on the Last name of the employee and copy it via Ctrl+C.
@@ -52,6 +53,8 @@ Write a while loop that repeatedly removes search results from the target list u
 While writing the program ended up taking about 2 hours, once running, the laptop would continuously run through each and every result, allowing the user to focus on more constructive tasks.
 An audio beep was played at different frequencies when an employee was either removed or never existed. This helped reduce the tendency to constantly check whether the script was still running,
 or if was just clicking around like crazy (as pixel-coordinate-using scripts can easily turn into).
+
+**All entries were correctly processed within 9 hours, while freeing the user to focus on other tasks.**
 
 ## What Was Learned
 * PyAutoGui is unable to scrape text data, and can only search for images on the screen.
